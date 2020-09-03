@@ -19,11 +19,6 @@
       "userName": "Root",
       "password": "root12345",
       "type": "root"
-    },
-    {
-      "userName": "Root1",
-      "password": "root12345",
-      "type": "root"
     }
   ]
 }
