@@ -29,6 +29,10 @@
       "userName": "KyawThet",
       "password": "kyaw12345",
       "type": "user"
+    },{
+      "userName": "KyawThetNaing",
+      "password": "kyawthet12345",
+      "type": "admin"
     }
   ]
 }
