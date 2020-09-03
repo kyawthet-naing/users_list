@@ -19,6 +19,11 @@
       "userName": "Root",
       "password": "root12345",
       "type": "root"
+    },
+    {
+      "userName": "KhineYinWin",
+      "password": "khine12345",
+      "type": "root"
     }
   ]
 }
