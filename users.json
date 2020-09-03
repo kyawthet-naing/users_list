@@ -19,16 +19,6 @@
       "userName": "Root",
       "password": "root12345",
       "type": "root"
-    },
-    {
-      "userName": "KyawThet",
-      "password": "kyaw12345",
-      "type": "user"
-    },
-    {
-      "userName": "KyawThetNaing",
-      "password": "kyaw12345",
-      "type": "admin"
     }
   ]
 }
